@@ -64,6 +64,8 @@ Here's how you can do it ... 👀
 
 This is an image of the landmark model in `MediaPipe` Pose predicts the location of **33** pose landmarks
 
+![image](https://user-images.githubusercontent.com/93156825/214391266-479fad06-23e5-43f0-8ee8-c53a7b5e3a45.png)
+
 
 In the `/pose_detection.py`, change the `landmarks` accordingly from the picture above
 ```python
